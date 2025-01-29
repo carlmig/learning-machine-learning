@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+scikit-learn
+polars
+matplotlib
+numpy
+pandas
+xgboost
+keras
+seaborn
+tensorflow
